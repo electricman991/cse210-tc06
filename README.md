@@ -36,4 +36,7 @@ root                    (project root folder)
 ---
 * # TODO: Add your names and emails here
 
-
+* Braiden Sommer som18001@byui.edu
+* Karla Sommerfeldt kryn5796@yahoo.ca 
+* Jake Corn Corn614@gmail.com
+* Carl Bialorucki <carl.bialorucki@byui.edu>
