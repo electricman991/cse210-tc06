@@ -35,5 +35,3 @@ root                    (project root folder)
 ## Authors
 ---
 * # TODO: Add your names and emails here
-
-* Braiden Sommer som18001@byui.edu
